@@ -7,4 +7,3 @@ venv/
 .env
 .pytest_cache/
 .ipynb_checkpoints/
-logs/*.log
